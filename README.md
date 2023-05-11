@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning DL fo security tools
+- 🌱 I’m currently learning DL for security tools
 <!-- - 😄 Pronouns: No system is safe -->
 <h1 align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&duration=2000&pause=1000&color=23B1FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=75&lines=No_system_is_safe;Enjoy_every_day!" alt="Typing SVG" /></a>
