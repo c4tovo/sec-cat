@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&duration=2000&pause=1000&color=23B1FFFF&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=50&lines=No_system_is_safe" alt="Typing SVG" /></a>
 </h1>
-<div align="center"> <img src="https://metrics.lecoq.io/sec-cat?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<!-- <div align="center"> <img src="https://metrics.lecoq.io/sec-cat?template=classic&config.timezone=Asia%2FShanghai"> </div> -->
 
 
 #### Use Platform&Tools
